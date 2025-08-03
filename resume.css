@@ -11,6 +11,10 @@ body {
     padding: 40px 20px;
     line-height: 1.6;
     color: #333;
+    background-image: url(https://cdn.pixabay.com/photo/2025/07/20/07/37/hand-9723837_1280.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /* Section container */
